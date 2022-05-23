@@ -1,6 +1,6 @@
 # Olá! eu sou o Victor Barboza 😁
 
-Bem vindo ao meu Github 👋
+Bem-vindo ao meu Github 👋
 
 
 
