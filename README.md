@@ -1,4 +1,4 @@
-# Oi eu sou o Victor Barboza 😁
+# Olá! eu sou o Victor Barboza 😁
 
 Bem vindo ao meu Github 👋
 
