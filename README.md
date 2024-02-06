@@ -2,7 +2,7 @@
   
    # Olá! Bem-vindo ao meu Github 👋
 
-<div align="justify"> Meu nome é Victor de Moraes Barboza, tenho 23 anos, comecei minha carreira em um curso de Informática avançada quando mais novo e fiz o ensino médio técnico... Nesta época já sabia o que queria seguir, saindo do ensino médio comecei a faculdade de Ciências da Computação, adquirindo habilidades de planejamento, gerenciamento de projetos, desenvolvimento, implementação, entre outros... Assim então escolhi a área de desenvolvimento WEB que mais me identifiquei durante a faculdade e por já ter experiência trabalhando como Designer Gráfico facilitou ainda mais cuidar dos detalhes. </div>
+<div align="justify"> Meu nome é Victor de Moraes Barboza, tenho 24 anos, comecei minha carreira em um curso de Informática avançada quando mais novo e fiz o ensino médio técnico... Nesta época já sabia o que queria seguir, saindo do ensino médio comecei a faculdade de Ciências da Computação, adquirindo habilidades de planejamento, gerenciamento de projetos, desenvolvimento, implementação, entre outros... Assim então escolhi a área de desenvolvimento WEB que mais me identifiquei durante a faculdade e por já ter experiência trabalhando como Designer Gráfico facilitou ainda mais cuidar dos detalhes. </div>
   
 ## 👨‍💻 Tecnologias
 
