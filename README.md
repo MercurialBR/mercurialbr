@@ -39,11 +39,11 @@
 
 
   
-- <a href="www.pluralsec.com.br" target="_blank"> Projeto Plural Securitizadora </a>: Desenvolvi um site para a Plural Securitizadora, com o objetivo de proporcionar uma experiência intuitiva e agradável para os clientes. O site é totalmente responsivo, oferecendo uma navegação fluida em dispositivos móveis e desktop.
+- <a href="https://www.pluralsec.com.br" target="_blank">Projeto Plural Securitizadora </a>: Desenvolvi um site para a Plural Securitizadora, com o objetivo de proporcionar uma experiência intuitiva e agradável para os clientes. O site é totalmente responsivo, oferecendo uma navegação fluida em dispositivos móveis e desktop.
 <br>
   
   
-- <a href="www.primosloc.com.br" target="_blank"> Projeto Primos Locações </a>: Desenvolvi um site institucional utilizando Angular para apresentar os principais projetos e serviços oferecidos pela empresa. O objetivo do site era criar uma plataforma visualmente atraente e funcional para que clientes e parceiros pudessem conhecer os trabalhos realizados e as soluções oferecidas pela empresa em diferentes setores.
+- <a href="https://www.primosloc.com.br" target="_blank">Projeto Primos Locações </a>: Desenvolvi um site institucional utilizando Angular para apresentar os principais projetos e serviços oferecidos pela empresa. O objetivo do site era criar uma plataforma visualmente atraente e funcional para que clientes e parceiros pudessem conhecer os trabalhos realizados e as soluções oferecidas pela empresa em diferentes setores.
 <br>
 
 - Projeto Jm Concept (em andamento...): Site em desenvolvimento no ramo de Micropigmentação, onde design e e fluidez pesam muito no desenvolvimento do projeto.
